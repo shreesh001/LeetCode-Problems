@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreesh001/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2467-most-profitable-path-in-a-tree](https://github.com/shreesh001/LeetCode-Problems/tree/master/2467-most-profitable-path-in-a-tree) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -62,4 +64,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
