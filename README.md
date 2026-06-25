@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2467-most-profitable-path-in-a-tree](https://github.com/shreesh001/LeetCode-Problems/tree/master/2467-most-profitable-path-in-a-tree) |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/shreesh001/LeetCode-Problems/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Heap (Priority Queue)
@@ -52,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2467-most-profitable-path-in-a-tree](https://github.com/shreesh001/LeetCode-Problems/tree/master/2467-most-profitable-path-in-a-tree) |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/shreesh001/LeetCode-Problems/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2467-most-profitable-path-in-a-tree](https://github.com/shreesh001/LeetCode-Problems/tree/master/2467-most-profitable-path-in-a-tree) |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/shreesh001/LeetCode-Problems/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 ## Math
 |  |
 | ------- |
@@ -84,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Union-Find
+|  |
+| ------- |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/shreesh001/LeetCode-Problems/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 <!---LeetCode Topics End-->
