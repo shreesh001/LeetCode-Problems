@@ -111,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shreesh001/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Database
+|  |
+| ------- |
+| [0610-triangle-judgement](https://github.com/shreesh001/LeetCode-Problems/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
