@@ -18,7 +18,6 @@ public:
         int max_sz=0;
         int n=new_nums.size();
         for (int i=n-1;i>=0;i--){
-            cout<<new_nums[i]<<" ";
             int len=1;
             int num=new_nums[i];
             int prev=sqrt(num);
