@@ -114,5 +114,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/shreesh001/LeetCode-Problems/tree/master/0180-consecutive-numbers) |
 | [0610-triangle-judgement](https://github.com/shreesh001/LeetCode-Problems/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
