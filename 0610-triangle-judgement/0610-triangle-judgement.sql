@@ -1,5 +1,8 @@
 # Write your MySQL query statement below
 # Write your MySQL query statement below
 select *, 
-       if(x+y>z and y+z>x and x+z>y, "Yes","No") as triangle 
+       CASE
+           WHEN x+y>z and y+z>x and z+x>y THEN 'Yes'
+           ELSE 'No'
+       END AS triangle
 from triangle
