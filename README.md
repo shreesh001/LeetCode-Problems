@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shreesh001/LeetCode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/shreesh001/LeetCode-Problems/tree/master/2467-most-profitable-path-in-a-tree) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shreesh001/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -116,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0180-consecutive-numbers](https://github.com/shreesh001/LeetCode-Problems/tree/master/0180-consecutive-numbers) |
 | [0610-triangle-judgement](https://github.com/shreesh001/LeetCode-Problems/tree/master/0610-triangle-judgement) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shreesh001/LeetCode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shreesh001/LeetCode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
