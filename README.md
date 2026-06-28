@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0180-consecutive-numbers](https://github.com/shreesh001/LeetCode-Problems/tree/master/0180-consecutive-numbers) |
 | [0610-triangle-judgement](https://github.com/shreesh001/LeetCode-Problems/tree/master/0610-triangle-judgement) |
+| [1193-monthly-transactions-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/1193-monthly-transactions-i) |
 ## Greedy
 |  |
 | ------- |
