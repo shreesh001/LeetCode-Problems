@@ -2,13 +2,13 @@ class Solution {
 public:
     int maximumElementAfterDecrementingAndRearranging(vector<int>& arr) {
         int n=arr.size();
-        map<int,int>mpp;
+        vector<int>cnt(n+1,0);
         for (int i=0;i<n;i++){
-            mpp[arr[i]]++;
+            cnt[min(n,arr[i])]++;
         }
         int res=0;
-        for (auto &[el,rep]:mpp){
-            res=min(el,res+rep);
+        for (int i=1;i<cnt.size();i++){
+            res=min(i,res+cnt[i]);
         }
         return res;
     }
