@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1462-course-schedule-iv](https://github.com/shreesh001/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/shreesh001/LeetCode-Problems/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/shreesh001/LeetCode-Problems/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -61,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1462-course-schedule-iv](https://github.com/shreesh001/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/shreesh001/LeetCode-Problems/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/shreesh001/LeetCode-Problems/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1462-course-schedule-iv](https://github.com/shreesh001/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/shreesh001/LeetCode-Problems/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/shreesh001/LeetCode-Problems/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -130,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shreesh001/LeetCode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Topological Sort
+|  |
+| ------- |
+| [1462-course-schedule-iv](https://github.com/shreesh001/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
 <!---LeetCode Topics End-->
