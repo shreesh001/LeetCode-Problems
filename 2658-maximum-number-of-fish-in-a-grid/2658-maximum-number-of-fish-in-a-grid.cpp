@@ -5,8 +5,8 @@ public:
         vector<int>parent;
         vector<int>size;
         dsu(int n){
-            parent.assign(n,0);
-            size.assign(n,1);
+            parent.resize(n);
+            size.resize(n);
             for (int i=0;i<n;i++){
                 parent[i]=i;
             }
@@ -31,7 +31,10 @@ public:
     
     int findMaxFish(vector<vector<int>>& grid) {
 
-        vector<vector<int>>dir={{-1,0},{1,0},{0,-1},{0,1}};
+        vector<vector<int>>dir={{1,0},{0,1}};
+        // only need the right and down direction other direction are redundent
+
+        // dsu initialization 
         int m=grid.size();
         int n=grid[0].size();
         int sz=m*n;
@@ -41,6 +44,7 @@ public:
                 disjointset.size[i*n+j]=grid[i][j];
             }
         }
+
         for (int i=0;i<m;i++){
             for (int j=0;j<n;j++){
                 if (grid[i][j]==0) continue;
@@ -50,9 +54,6 @@ public:
                     if (nr>=0 && nr<m && nc>=0 && nc<n && grid[nr][nc]!=0){
                         int u=i*n+j;
                         int v=nr*n+nc;
-                        int parentu=disjointset.findparent(u);
-                        int parentv=disjointset.findparent(v);
-                        if (parentu==parentv) continue;
                         disjointset.UnionBySize(u,v);
                     }
                 }
