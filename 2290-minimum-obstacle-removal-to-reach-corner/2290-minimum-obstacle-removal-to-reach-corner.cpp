@@ -5,7 +5,7 @@ public:
         int n=grid[0].size();
 
         vector<vector<int>>dir={{-1,0},{1,0},{0,-1},{0,1}};
-        vector<vector<bool>>vis(m,vector<bool>(n,false));
+        
         vector<vector<long long>>moves(m,vector<long long>(n,1e9));
         priority_queue<vector<long long>,vector<vector<long long>>,greater<vector<long long>>>pq;
         pq.push({0,0,0});
