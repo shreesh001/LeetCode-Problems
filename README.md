@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3620-network-recovery-pathways](https://github.com/shreesh001/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Graph Theory
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/shreesh001/LeetCode-Problems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
+| [3620-network-recovery-pathways](https://github.com/shreesh001/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3620-network-recovery-pathways](https://github.com/shreesh001/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/shreesh001/LeetCode-Problems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
+| [3620-network-recovery-pathways](https://github.com/shreesh001/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 ## Tree
 |  |
 | ------- |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [3620-network-recovery-pathways](https://github.com/shreesh001/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
 |  |
@@ -180,9 +185,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1462-course-schedule-iv](https://github.com/shreesh001/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
+| [3620-network-recovery-pathways](https://github.com/shreesh001/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/shreesh001/LeetCode-Problems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
+| [3620-network-recovery-pathways](https://github.com/shreesh001/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
