@@ -3,109 +3,82 @@ using namespace std;
 
 class Solution {
 public:
-    long long modpow(long long base, long long exp, long long mod) {
-        base %= mod;
-        if (base < 0) base += mod;
-        long long result = 1;
-        while (exp > 0) {
-            if (exp & 1) result = (long long)((__int128)result * base % mod);
-            base = (long long)((__int128)base * base % mod);
-            exp >>= 1;
-        }
-        return result;
-    }
-
     vector<int> getFinalState(vector<int>& nums, int k, int multiplier) {
         int n = nums.size();
-        const long long MOD = 1000000007LL;
-
-        // If multiplier is 1, values never change.
+        long long MOD = 1000000007;
+        
+        // Edge case: multiplying by 1 changes nothing computationally.
         if (multiplier == 1) {
-            return nums;
+            vector<int> res(n);
+            for (int i = 0; i < n; i++) {
+                res[i] = nums[i] % MOD;
+            }
+            return res;
         }
-
-        long long m = multiplier;
-        long long maxA = *max_element(nums.begin(), nums.end());
-
-        // R = smallest integer such that m^R >= maxA.
-        // After R+1 multiplications applied to ANY single starting value (>=1),
-        // that value must exceed maxA, which forces every other (still original)
-        // element to be selected first. This bounds how "unbalanced" the picks
-        // can get before the process settles into a stable round-robin pattern.
-        long long R = 0;
-        {
-            long long cur = 1;
-            while (cur < maxA) {
-                cur *= m;
-                R++;
+        
+        // Find the maximum element in the initial configuration
+        long long max_val = 0;
+        for (int x : nums) {
+            if (x > max_val) {
+                max_val = x;
             }
         }
-
-        // Directly simulate the "transient" phase with a min-heap.
-        long long T1 = min((long long)k, (long long)n * (R + 1));
-
-        vector<long long> modVal(n);   // value mod 1e9+7, for the final answer
-        vector<__int128> trueVal(n);   // exact value, safe because exponents stay small here
-
+        
+        // Min-heap storing {value, original_index}
+        using pii = pair<long long, int>;
+        priority_queue<pii, vector<pii>, greater<pii>> pq;
+        
         for (int i = 0; i < n; i++) {
-            modVal[i] = nums[i] % MOD;
-            trueVal[i] = (__int128)nums[i];
+            pq.push({nums[i], i});
         }
-
-        // Min-heap of indices, ordered by exact current value (ties by smaller index).
-        auto cmp = [&](int a, int b) {
-            if (trueVal[a] != trueVal[b]) return trueVal[a] > trueVal[b];
-            return a > b;
-        };
-        priority_queue<int, vector<int>, decltype(cmp)> pq(cmp);
-        for (int i = 0; i < n; i++) pq.push(i);
-
-        for (long long step = 0; step < T1; step++) {
-            int idx = pq.top();
+        
+        // Phase 1: Simulate operations until the array values are "leveled"
+        while (k > 0) {
+            auto [val, idx] = pq.top();
+            
+            // Stable round-robin state reached, break simulation early
+            if (val >= max_val) {
+                break;
+            }
+            
             pq.pop();
-            modVal[idx] = (modVal[idx] * m) % MOD;
-            trueVal[idx] = trueVal[idx] * m;
-            pq.push(idx);
+            pq.push({val * multiplier, idx});
+            k--;
         }
-
-        long long remaining = (long long)k - T1;
-        if (remaining > 0) {
-            // Once the transient phase is over, the process is in an exact
-            // round-robin cycle of period n: each element gets multiplied
-            // exactly once per block of n operations, always in the SAME
-            // relative order (since scaling all values by the same factor m
-            // preserves their relative order). So:
-            //   - every element gets `fullRounds` more multiplications
-            //   - the `extra` elements that are smallest (in the stable order)
-            //     get exactly one additional multiplication.
-            long long fullRounds = remaining / n;
-            long long extraCount = remaining % n;
-
-            // Determine the stable order using the exact values as they stand
-            // right now (end of transient, before applying fullRounds) --
-            // this order is preserved under any uniform scaling.
-            vector<int> order(n);
-            iota(order.begin(), order.end(), 0);
-            sort(order.begin(), order.end(), [&](int a, int b) {
-                if (trueVal[a] != trueVal[b]) return trueVal[a] < trueVal[b];
-                return a < b;
-            });
-
-            if (fullRounds > 0) {
-                long long mPowFull = modpow(m, fullRounds, MOD);
-                for (int i = 0; i < n; i++) {
-                    modVal[i] = (modVal[i] * mPowFull) % MOD;
-                }
+        
+        // Phase 2: Compute full cycles and remaining singles in O(1) mathematical applications
+        long long times = k / n;
+        long long rem = k % n;
+        
+        // Standard Binary Exponentiation mapping
+        auto power = [&](long long base, long long exp) {
+            long long res = 1;
+            base %= MOD;
+            while (exp > 0) {
+                if (exp % 2 == 1) res = (res * base) % MOD;
+                base = (base * base) % MOD;
+                exp /= 2;
             }
-
-            for (long long i = 0; i < extraCount; i++) {
-                int idx = order[i];
-                modVal[idx] = (modVal[idx] * m) % MOD;
-            }
-        }
-
+            return res;
+        };
+        
+        long long mult_times = power(multiplier, times);
+        long long mult_times_plus_1 = (mult_times * (multiplier % MOD)) % MOD;
+        
         vector<int> res(n);
-        for (int i = 0; i < n; i++) res[i] = (int)modVal[i];
+        
+        // Extract dynamically matching order layout for leftover operations
+        for (int i = 0; i < n; i++) {
+            auto [val, idx] = pq.top();
+            pq.pop();
+            
+            // The first `rem` items get times + 1 operations
+            long long current_multiplier = (i < rem) ? mult_times_plus_1 : mult_times;
+            long long final_val = (val % MOD) * current_multiplier % MOD;
+            
+            res[idx] = (int)final_val;
+        }
+        
         return res;
     }
 };
