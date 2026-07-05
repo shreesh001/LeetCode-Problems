@@ -1,27 +1,6 @@
 class Solution {
 public:
     vector<vector<int>>dir={{0,-1},{-1,-1},{-1,0}};
-    map<int,int>mpp;
-    int solve(int i,int j,vector<string>& board){
-        int m=board.size();
-        int n=board[0].size();
-
-        if (i==0 && j==0){
-            return 0;
-        }
-        int sum=-1e9;
-        for (auto d:dir){
-            int ni=i+d[0];
-            int nj=j+d[1];
-            if (ni<0 || ni>=m || nj<0 || nj>=n) continue;
-            if (board[ni][nj]=='X') continue;
-            if (board[ni][nj]=='E') return 0;
-            int pathsum=(board[ni][nj]-'0')+solve(ni,nj,board);
-            sum=max(pathsum,sum);
-            mpp[sum]++;
-        }
-        return sum;
-    }
     vector<int> pathsWithMaxScore(vector<string>& board) {
         int n=board.size();
         int mod=1e9+7;
