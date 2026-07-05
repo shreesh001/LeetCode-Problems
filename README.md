@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shreesh001/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/shreesh001/LeetCode-Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/shreesh001/LeetCode-Problems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3620-network-recovery-pathways](https://github.com/shreesh001/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
+## Simulation
+|  |
+| ------- |
+| [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 <!---LeetCode Topics End-->
