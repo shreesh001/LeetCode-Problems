@@ -6,10 +6,10 @@ public:
         for (int i=0;i<t.size();i++){
             if (ssi<s.size()){
                 if (s[ssi]==t[i]) ssi++;
+                else ssi=max(ssi,si+1);
             }
             if (si<s.size()){
                 if (s[si]==t[i]) si++;
-                else ssi=max(ssi,si+1);
             }
         }
         if (max(ssi,si)>=s.size()) return true;
