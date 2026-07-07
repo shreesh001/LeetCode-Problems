@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreesh001/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0647-palindromic-substrings](https://github.com/shreesh001/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreesh001/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shreesh001/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2949-count-beautiful-substrings-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/2949-count-beautiful-substrings-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/shreesh001/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [1301-number-of-paths-with-max-score](https://github.com/shreesh001/LeetCode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/shreesh001/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/shreesh001/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
