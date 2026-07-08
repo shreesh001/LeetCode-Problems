@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreesh001/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shreesh001/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0133-clone-graph](https://github.com/shreesh001/LeetCode-Problems/tree/master/0133-clone-graph) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreesh001/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2949-count-beautiful-substrings-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/2949-count-beautiful-substrings-ii) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreesh001/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/shreesh001/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shreesh001/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0647-palindromic-substrings](https://github.com/shreesh001/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreesh001/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shreesh001/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreesh001/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shreesh001/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreesh001/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Array
 |  |
