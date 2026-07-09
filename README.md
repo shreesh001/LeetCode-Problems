@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreesh001/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2949-count-beautiful-substrings-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/2949-count-beautiful-substrings-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shreesh001/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/shreesh001/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/shreesh001/LeetCode-Problems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/shreesh001/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/shreesh001/LeetCode-Problems/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/shreesh001/LeetCode-Problems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/shreesh001/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 ## Simulation
 |  |
