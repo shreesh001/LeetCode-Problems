@@ -18,11 +18,9 @@ public:
                     cnt++;
                     j++;
                 }
-                if (ch!=s[j]){
-                    str+=(cnt+'0');
-                    str+=(ch);
-                    cnt=0;
-                }
+                str+=(cnt+'0');
+                str+=(ch);
+                cnt=0;
             }
             s=str;
         }
