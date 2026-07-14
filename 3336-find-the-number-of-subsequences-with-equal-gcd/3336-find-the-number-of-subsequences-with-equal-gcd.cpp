@@ -21,7 +21,7 @@ public:
         // return solve(nums,0,0,0)-1;
 
 
-        // solving using bottom up dp
+        // solving using bottom up dp along with space optimization as it only depend upon the dp[i+1] state
         
         int n=nums.size();
         int maxval=0;
@@ -29,29 +29,30 @@ public:
             maxval=max(maxval,nums[i]);
         }
 
-        vector<vector<vector<int>>>dp(n+1,vector<vector<int>>(maxval+1,vector<int>(maxval+1,0)));
-
+        vector<vector<int>>prev(maxval+1,vector<int>(maxval+1,0));
         for (int seq1=0;seq1<=maxval;seq1++){
             for (int seq2=0;seq2<=maxval;seq2++){
                 if (seq1!=0 && seq2!=0 && seq1==seq2){
-                    dp[n][seq1][seq2]=1;
+                    prev[seq1][seq2]=1;
                 }
             }
         }
 
         for (int i=n-1;i>=0;i--){
+            vector<vector<int>>curr(maxval+1,vector<int>(maxval+1,0));
             for (int seq1=maxval;seq1>=0;seq1--){
                 for (int seq2=maxval;seq2>=0;seq2--){
 
-                    long long skip=dp[i+1][seq1][seq2];
-                    long long take1=dp[i+1][gcd(seq1,nums[i])][seq2];
-                    long long take2=dp[i+1][seq1][gcd(seq2,nums[i])];
+                    long long skip=prev[seq1][seq2];
+                    long long take1=prev[gcd(seq1,nums[i])][seq2];
+                    long long take2=prev[seq1][gcd(seq2,nums[i])];
 
-                    dp[i][seq1][seq2]=(skip+take1+take2)%mod;
+                    curr[seq1][seq2]=(skip+take1+take2)%mod;
                 }
             }
+            prev=curr;
         }
 
-        return dp[0][0][0];
+        return prev[0][0];
     }
 };
