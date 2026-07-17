@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreesh001/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2949-count-beautiful-substrings-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/2949-count-beautiful-substrings-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shreesh001/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shreesh001/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shreesh001/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shreesh001/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shreesh001/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0263-ugly-number](https://github.com/shreesh001/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [2949-count-beautiful-substrings-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/2949-count-beautiful-substrings-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shreesh001/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shreesh001/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shreesh001/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -188,11 +191,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/shreesh001/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2949-count-beautiful-substrings-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/2949-count-beautiful-substrings-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shreesh001/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -209,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2949-count-beautiful-substrings-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/2949-count-beautiful-substrings-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shreesh001/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shreesh001/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shreesh001/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shreesh001/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -247,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shreesh001/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/shreesh001/LeetCode-Problems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -275,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shreesh001/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/shreesh001/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
