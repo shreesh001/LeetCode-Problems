@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shreesh001/LeetCode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shreesh001/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shreesh001/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/shreesh001/LeetCode-Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/shreesh001/LeetCode-Problems/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/shreesh001/LeetCode-Problems/tree/master/0263-ugly-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shreesh001/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2949-count-beautiful-substrings-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/2949-count-beautiful-substrings-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shreesh001/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shreesh001/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shreesh001/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2949-count-beautiful-substrings-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/2949-count-beautiful-substrings-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shreesh001/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shreesh001/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
