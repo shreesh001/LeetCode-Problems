@@ -1,5 +1,6 @@
 class Solution {
 public:
+
     int dp[21][21][2];
     int solve(int s,int e,int turn,vector<int>& nums){
         if (s>e) return 0;
@@ -9,7 +10,7 @@ public:
         if (turn==1){
             start=nums[s]+solve(s+1,e,0,nums);
             end=nums[e]+solve(s,e-1,0,nums);
-            return max(start,end);
+            return dp[s][e][turn]=max(start,end);
         }
         else{
             start=-nums[s]+solve(s+1,e,1,nums);
@@ -17,6 +18,7 @@ public:
         }
         return dp[s][e][turn]=min(start,end);
     }
+
     bool predictTheWinner(vector<int>& nums) {
         int e=nums.size();
         memset(dp,-1,sizeof(dp));
