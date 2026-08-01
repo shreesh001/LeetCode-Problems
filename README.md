@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/shreesh001/LeetCode-Problems/tree/master/0134-gas-station) |
+| [0486-predict-the-winner](https://github.com/shreesh001/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shreesh001/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/shreesh001/LeetCode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/shreesh001/LeetCode-Problems/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/shreesh001/LeetCode-Problems/tree/master/0263-ugly-number) |
+| [0486-predict-the-winner](https://github.com/shreesh001/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shreesh001/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreesh001/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2949-count-beautiful-substrings-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/2949-count-beautiful-substrings-ii) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreesh001/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/shreesh001/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0486-predict-the-winner](https://github.com/shreesh001/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/shreesh001/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/shreesh001/LeetCode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/shreesh001/LeetCode-Problems/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -340,4 +343,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/shreesh001/LeetCode-Problems/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/shreesh001/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
