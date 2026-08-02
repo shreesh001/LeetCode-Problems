@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/shreesh001/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shreesh001/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/shreesh001/LeetCode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0877-stone-game](https://github.com/shreesh001/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/shreesh001/LeetCode-Problems/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/shreesh001/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/shreesh001/LeetCode-Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/shreesh001/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/shreesh001/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shreesh001/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/shreesh001/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreesh001/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2949-count-beautiful-substrings-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/2949-count-beautiful-substrings-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/shreesh001/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/shreesh001/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/shreesh001/LeetCode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0877-stone-game](https://github.com/shreesh001/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/shreesh001/LeetCode-Problems/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1301-number-of-paths-with-max-score](https://github.com/shreesh001/LeetCode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shreesh001/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -351,4 +354,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shreesh001/LeetCode-Problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/shreesh001/LeetCode-Problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
