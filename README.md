@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/shreesh001/LeetCode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0877-stone-game](https://github.com/shreesh001/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/shreesh001/LeetCode-Problems/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1140-stone-game-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/shreesh001/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/shreesh001/LeetCode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/shreesh001/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/shreesh001/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shreesh001/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shreesh001/LeetCode-Problems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shreesh001/LeetCode-Problems/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreesh001/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2949-count-beautiful-substrings-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/2949-count-beautiful-substrings-ii) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/shreesh001/LeetCode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0877-stone-game](https://github.com/shreesh001/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/shreesh001/LeetCode-Problems/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1140-stone-game-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/shreesh001/LeetCode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/shreesh001/LeetCode-Problems/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shreesh001/LeetCode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/shreesh001/LeetCode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1140-stone-game-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [2949-count-beautiful-substrings-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/2949-count-beautiful-substrings-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shreesh001/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -372,14 +376,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/shreesh001/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shreesh001/LeetCode-Problems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shreesh001/LeetCode-Problems/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shreesh001/LeetCode-Problems/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shreesh001/LeetCode-Problems/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
