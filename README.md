@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/shreesh001/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreesh001/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2949-count-beautiful-substrings-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/2949-count-beautiful-substrings-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shreesh001/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shreesh001/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shreesh001/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/shreesh001/LeetCode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/shreesh001/LeetCode-Problems/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreesh001/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shreesh001/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/shreesh001/LeetCode-Problems/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Array
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shreesh001/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/shreesh001/LeetCode-Problems/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shreesh001/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shreesh001/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
