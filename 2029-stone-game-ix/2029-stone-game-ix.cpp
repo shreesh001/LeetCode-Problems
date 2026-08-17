@@ -1,11 +1,17 @@
 class Solution {
 public:
     bool stoneGameIX(vector<int>& stones) {
-        int f[3] = {0, 0, 0};
+        int c0=0,c1=0,c2=0;
 
-        for (auto& s : stones)
-            f[s % 3]++;
+        for (auto st:stones){
+            if (st%3==0) c0++;
+            else if (st%3==1) c1++;
+            else c2++;
+        }
 
-        return f[0] & 1 ? abs(f[1] - f[2]) > 2 : min(f[1], f[2]) > 0;
+        if (c0%2==0){
+            return (c1>=1 && c2>=1 && (abs(c1-c2)>=0));
+        }
+        return (abs(c1-c2)>=3);
     }
 };
