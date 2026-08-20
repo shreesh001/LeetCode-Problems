@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/shreesh001/LeetCode-Problems/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shreesh001/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shreesh001/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shreesh001/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shreesh001/LeetCode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shreesh001/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
