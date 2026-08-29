@@ -15,11 +15,7 @@ public:
         pos.push_back(vec[0].second);
         for (int i=1;i<n;i++){
             int next=vec[i].first;
-            if ((next-prev)<=limit){
-                pos.push_back(vec[i].second);
-                prev=next;
-            }
-            else{
+            if ((next-prev)>limit){
                 int sz=pos.size();
                 sort(pos.begin(),pos.end());
 
@@ -28,10 +24,11 @@ public:
                 }
 
                 pos.clear();
-                pos.push_back(vec[i].second);
-                prev=next;
             }
+            pos.push_back(vec[i].second);
+            prev=next;
         }
+        
         if (pos.size()>0){
             int sz=pos.size();
             sort(pos.begin(),pos.end());
