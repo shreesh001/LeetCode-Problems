@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shreesh001/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0134-gas-station](https://github.com/shreesh001/LeetCode-Problems/tree/master/0134-gas-station) |
 | [0486-predict-the-winner](https://github.com/shreesh001/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/shreesh001/LeetCode-Problems/tree/master/0493-reverse-pairs) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shreesh001/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/shreesh001/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shreesh001/LeetCode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
