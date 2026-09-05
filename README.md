@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shreesh001/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0134-gas-station](https://github.com/shreesh001/LeetCode-Problems/tree/master/0134-gas-station) |
+| [0221-maximal-square](https://github.com/shreesh001/LeetCode-Problems/tree/master/0221-maximal-square) |
 | [0486-predict-the-winner](https://github.com/shreesh001/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/shreesh001/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shreesh001/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/shreesh001/LeetCode-Problems/tree/master/0221-maximal-square) |
 | [1301-number-of-paths-with-max-score](https://github.com/shreesh001/LeetCode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/shreesh001/LeetCode-Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreesh001/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/shreesh001/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0221-maximal-square](https://github.com/shreesh001/LeetCode-Problems/tree/master/0221-maximal-square) |
 | [0486-predict-the-winner](https://github.com/shreesh001/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/shreesh001/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/shreesh001/LeetCode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
