@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shreesh001/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/shreesh001/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/shreesh001/LeetCode-Problems/tree/master/0038-count-and-say) |
+| [0115-distinct-subsequences](https://github.com/shreesh001/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0647-palindromic-substrings](https://github.com/shreesh001/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/shreesh001/LeetCode-Problems/tree/master/0649-dota2-senate) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreesh001/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreesh001/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/shreesh001/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/shreesh001/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0221-maximal-square](https://github.com/shreesh001/LeetCode-Problems/tree/master/0221-maximal-square) |
 | [0486-predict-the-winner](https://github.com/shreesh001/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/shreesh001/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
