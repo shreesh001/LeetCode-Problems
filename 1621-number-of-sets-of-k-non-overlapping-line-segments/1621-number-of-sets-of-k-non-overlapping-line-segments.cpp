@@ -18,7 +18,29 @@ public:
         return dp[ind][seg][srt]=res;
     }
     int numberOfSets(int n, int k) {
-        vector<vector<vector<long long>>>dp(n,vector<vector<long long>>(k+1,vector<long long>(2,-1)));
-        return solve(0,0,0,n,k,dp);
+        vector<vector<vector<long long>>>dp(n+1,vector<vector<long long>>(k+2,vector<long long>(2,0)));
+        for (int i=0;i<n;i++){
+            dp[i][k][0]=1;
+            dp[i][k][1]=1;
+        }
+
+        for (int i=n-1;i>=0;i--){
+            for (int j=k-1;j>=0;j--){
+                for (int srt=0;srt<2;srt++){
+
+                    long long res=0;
+                    if (srt==0){
+                        res=(res+dp[i+1][j][1])%mod;
+                        res=(res+dp[i+1][j][0])%mod;
+                    }
+                    else{
+                        res=(res+dp[i][j+1][0])%mod;
+                        res=(res+dp[i+1][j][1])%mod;
+                    }
+                    dp[i][j][srt]=res;
+                }
+            }
+        }
+        return dp[0][0][0];
     }
 };
