@@ -35,10 +35,7 @@ public:
         if (m==0) return -1;
 
         sort(ind.begin(),ind.end());
-
-        for (int i=0;i<m;i++){
-            cout<<ind[i].first<<" "<<ind[i].second<<"\n";
-        }
+        
         vector<int>preflen(m,0);
         preflen[m-1]=ind[m-1].second - ind[m-1].first + 1;
         for (int i=m-2;i>=0;i--){
