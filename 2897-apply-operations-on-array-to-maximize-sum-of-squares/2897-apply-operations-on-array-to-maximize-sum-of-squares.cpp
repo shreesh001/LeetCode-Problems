@@ -22,7 +22,6 @@ public:
                     no+=(1ll<<j);
                 }
             }
-            cout<<no<<"\n";
             sum=(sum+(no*no))%mod;
         }
 
