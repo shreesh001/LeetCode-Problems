@@ -1,63 +1,65 @@
 class Solution {
-    string expression;
-    int idx;
+public:
+    string s;
+    int n;
+    int idx = 0;
 
-    // item -> letter | { expr }
-    set<string> item() {
-        set<string> ret;
-        if (expression[idx] == '{') {
+    set<string> getUnit() {
+        set<string> result;
+
+        if(s[idx] == '{') {
             idx++;
-            ret = expr();
-        } else {
-            ret = {string(1, expression[idx])};
+            result = performUnion();
+        } else { //alphabet
+            result = {string(1, s[idx])};
         }
+
         idx++;
-        return move(ret);
+        return result;
     }
 
-    // term -> item | item term
-    set<string> term() {
-        // Initialize an empty set and take its Cartesian product with
-        // subsequent results
-        set<string> ret = {""};
-        // An item starts with { or a lowercase letter; continue matching only
-        // when this condition is met
-        while (idx < expression.size() &&
-               (expression[idx] == '{' || isalpha(expression[idx]))) {
-            auto sub = item();
-            set<string> tmp;
-            for (auto& left : ret) {
-                for (auto& right : sub) {
-                    tmp.insert(left + right);
+    set<string> performConcat() {
+        set<string> result = {""}; //ordered set
+
+        while(idx < n && (s[idx] == '{' || isalpha(s[idx]))) {
+            set<string> temp = getUnit();
+
+            set<string> concatResult;
+            for(const string& left : result) {
+                for(const string& right : temp) {
+                    concatResult.insert(left+right);
                 }
             }
-            ret = move(tmp);
+
+            result = concatResult;
         }
-        return move(ret);
+
+        return result;
     }
 
-    // expr -> term | term, expr
-    set<string> expr() {
-        set<string> ret;
-        while (true) {
-            // Take the union with the result of term()
-            ret.merge(term());
-            // Continue if a comma is matched; otherwise, stop matching
-            if (idx < expression.size() && expression[idx] == ',') {
+    set<string> performUnion() {
+        set<string> result;
+
+        while(true) {
+            set<string> temp = performConcat();
+            result.insert(begin(temp), end(temp));
+
+            if(idx < n && s[idx] == ',') 
                 idx++;
-                continue;
-            } else {
+            else 
                 break;
-            }
         }
-        return move(ret);
+        return result;
     }
 
-public:
     vector<string> braceExpansionII(string expression) {
-        this->expression = expression;
-        this->idx = 0;
-        auto ret = expr();
-        return {ret.begin(), ret.end()};
+        n = expression.length();
+        s = expression;
+        idx = 0;
+
+        set<string> st = performUnion();
+        vector<string> result(begin(st), end(st));
+
+        return result;
     }
 };
