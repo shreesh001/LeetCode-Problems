@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-course-schedule-iv](https://github.com/shreesh001/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/shreesh001/LeetCode-Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/shreesh001/LeetCode-Problems/tree/master/2467-most-profitable-path-in-a-tree) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/shreesh001/LeetCode-Problems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shreesh001/LeetCode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/shreesh001/LeetCode-Problems/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shreesh001/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shreesh001/LeetCode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/shreesh001/LeetCode-Problems/tree/master/2467-most-profitable-path-in-a-tree) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/shreesh001/LeetCode-Problems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-course-schedule-iv](https://github.com/shreesh001/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shreesh001/LeetCode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/shreesh001/LeetCode-Problems/tree/master/2467-most-profitable-path-in-a-tree) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/shreesh001/LeetCode-Problems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shreesh001/LeetCode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/shreesh001/LeetCode-Problems/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-course-schedule-iv](https://github.com/shreesh001/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/shreesh001/LeetCode-Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/shreesh001/LeetCode-Problems/tree/master/2467-most-profitable-path-in-a-tree) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/shreesh001/LeetCode-Problems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shreesh001/LeetCode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/shreesh001/LeetCode-Problems/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
