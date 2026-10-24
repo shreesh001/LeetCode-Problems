@@ -16,10 +16,6 @@ public:
         int A_leave_date = stoi(leaveAlice.substr(3, 2));
         int B_leave_date = stoi(leaveBob.substr(3, 2));
 
-        cout<<A_arrive_Month<<" "<<A_arrive_Month<<"\n";
-
-        cout<<A_leave_date<<" "<<B_leave_date<<"\n";
-
         int start = max(A_arrive_Month, B_arrive_Month);
         int end = min(A_leave_Month, B_leave_Month);
 
