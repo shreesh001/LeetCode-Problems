@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/shreesh001/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/shreesh001/LeetCode-Problems/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1140-stone-game-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/shreesh001/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/shreesh001/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/shreesh001/LeetCode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/shreesh001/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0221-maximal-square](https://github.com/shreesh001/LeetCode-Problems/tree/master/0221-maximal-square) |
 | [0835-image-overlap](https://github.com/shreesh001/LeetCode-Problems/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/shreesh001/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/shreesh001/LeetCode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shreesh001/LeetCode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/shreesh001/LeetCode-Problems/tree/master/0133-clone-graph) |
+| [1254-number-of-closed-islands](https://github.com/shreesh001/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1462-course-schedule-iv](https://github.com/shreesh001/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shreesh001/LeetCode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/shreesh001/LeetCode-Problems/tree/master/2467-most-profitable-path-in-a-tree) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/shreesh001/LeetCode-Problems/tree/master/0133-clone-graph) |
 | [0301-remove-invalid-parentheses](https://github.com/shreesh001/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/shreesh001/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1462-course-schedule-iv](https://github.com/shreesh001/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/shreesh001/LeetCode-Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/shreesh001/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shreesh001/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shreesh001/LeetCode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/shreesh001/LeetCode-Problems/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
