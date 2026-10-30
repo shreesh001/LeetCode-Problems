@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/shreesh001/LeetCode-Problems/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/shreesh001/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0221-maximal-square](https://github.com/shreesh001/LeetCode-Problems/tree/master/0221-maximal-square) |
+| [0334-increasing-triplet-subsequence](https://github.com/shreesh001/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0486-predict-the-winner](https://github.com/shreesh001/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/shreesh001/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shreesh001/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/shreesh001/LeetCode-Problems/tree/master/0134-gas-station) |
+| [0334-increasing-triplet-subsequence](https://github.com/shreesh001/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0649-dota2-senate](https://github.com/shreesh001/LeetCode-Problems/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/shreesh001/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreesh001/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -719,4 +721,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1673-find-the-most-competitive-subsequence](https://github.com/shreesh001/LeetCode-Problems/tree/master/1673-find-the-most-competitive-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/shreesh001/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
