@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/shreesh001/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/shreesh001/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/shreesh001/LeetCode-Problems/tree/master/0493-reverse-pairs) |
+| [0502-ipo](https://github.com/shreesh001/LeetCode-Problems/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shreesh001/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/shreesh001/LeetCode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0835-image-overlap](https://github.com/shreesh001/LeetCode-Problems/tree/master/0835-image-overlap) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0502-ipo](https://github.com/shreesh001/LeetCode-Problems/tree/master/0502-ipo) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreesh001/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/shreesh001/LeetCode-Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/shreesh001/LeetCode-Problems/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/shreesh001/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/shreesh001/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0502-ipo](https://github.com/shreesh001/LeetCode-Problems/tree/master/0502-ipo) |
 | [0649-dota2-senate](https://github.com/shreesh001/LeetCode-Problems/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/shreesh001/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreesh001/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/shreesh001/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0502-ipo](https://github.com/shreesh001/LeetCode-Problems/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shreesh001/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/shreesh001/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
