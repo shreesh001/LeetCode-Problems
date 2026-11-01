@@ -5,16 +5,16 @@ public:
         
         sort(nums.begin(),nums.end());
 
-        int cum=nums[n-1]-nums[0];
-        
+        int moves=nums[n-1]-nums[0];
+
         for (int i=n-2;i>=0;i--){
-            nums[i]+=cum;
+            nums[i]+=moves;
             if (nums[i]-nums[i+1]>0){
-                cum+=(nums[i]-nums[i+1]);
+                moves+=(nums[i]-nums[i+1]);
             }
             else break;
         }
 
-        return cum;
+        return moves;
     }
 };
