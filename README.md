@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/shreesh001/LeetCode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/shreesh001/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shreesh001/LeetCode-Problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shreesh001/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/shreesh001/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/shreesh001/LeetCode-Problems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreesh001/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/shreesh001/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shreesh001/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shreesh001/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreesh001/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shreesh001/LeetCode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shreesh001/LeetCode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shreesh001/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/shreesh001/LeetCode-Problems/tree/master/0493-reverse-pairs) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shreesh001/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shreesh001/LeetCode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shreesh001/LeetCode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shreesh001/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shreesh001/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shreesh001/LeetCode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0647-palindromic-substrings](https://github.com/shreesh001/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shreesh001/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shreesh001/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shreesh001/LeetCode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shreesh001/LeetCode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
