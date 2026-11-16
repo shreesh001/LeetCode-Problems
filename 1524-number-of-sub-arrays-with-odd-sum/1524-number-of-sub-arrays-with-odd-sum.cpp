@@ -15,7 +15,6 @@ public:
                 ans+=prev1;
                 r++;
             }
-
             if (r>=n) break;
             long long curr=prev2+(r-l+1);
             ans=(ans+curr)%mod;
