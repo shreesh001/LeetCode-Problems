@@ -1,21 +1,31 @@
 class Solution {
 public:
     vector<int> countServers(int n, vector<vector<int>>& logs, int x, vector<int>& queries) {
-        ranges::sort(logs, {}, [](auto& log) { return log[1]; });  // by time
-        logs.push_back({0, INT_MAX});  // sentinel: no window ever reaches it
-        vector<int> order(queries.size());
-        iota(order.begin(), order.end(), 0);
-        ranges::sort(order, {}, [&](int i) { return queries[i]; });  // query positions in time order
+        sort(logs.begin(), logs.end(), [](auto& a, auto& b) {
+            return a[1] < b[1];
+        });
 
-        vector<int> cnt(n + 1), ans(queries.size());  // cnt: requests per server inside the window [q - x, q]
-        int busy = 0, lo = 0, hi = 0;  // busy: servers with at least one request in it
-        for (int i : order) {
-            int q = queries[i];
-            for (; logs[hi][1] <= q; ++hi)  // requests up to q come in
-                busy += cnt[logs[hi][0]]++ == 0;
-            for (; logs[lo][1] < q - x; ++lo)  // requests before q - x go out
-                busy -= --cnt[logs[lo][0]] == 0;
-            ans[i] = n - busy;
+        int q = queries.size();
+        vector<pair<int,int>> qs(q);
+        for (int i = 0; i < q; i++) qs[i] = {queries[i], i};
+        sort(qs.begin(), qs.end());
+
+        vector<int> freq(n + 1, 0), ans(q);
+        int active = 0;
+        int l = 0, r = 0, m = logs.size();
+
+        for (auto& [qt, idx] : qs) {
+            // add logs with time <= qt
+            while (r < m && logs[r][1] <= qt) {
+                if (freq[logs[r][0]]++ == 0) active++;
+                r++;
+            }
+            // remove logs with time < qt - x
+            while (l < r && logs[l][1] < qt - x) {
+                if (--freq[logs[l][0]] == 0) active--;
+                l++;
+            }
+            ans[idx] = n - active;
         }
         return ans;
     }
